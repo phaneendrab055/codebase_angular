@@ -8,11 +8,4 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 *Important*: Must have Angular CLI and NodeJS installed
 
-### To work on the follow-along branch:
-- In your terminal/command-line
-```
-git clone https://github.com/Everduin94/countdown-rxjs.git
-cd countdown-rxjs
-npm install
-git checkout follow-along
-```
+
